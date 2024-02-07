@@ -22,6 +22,8 @@ I'm Collins Effah, a computer science student from Kumasi, Ghana. I'm passionate
   - https://www.kusweb.com
 
 **Tools**
+![Uploading images.png…]()  
+
    - 
 
 **Contact Me**
