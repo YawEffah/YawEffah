@@ -23,7 +23,7 @@ I'm Collins Effah, a computer science student from Kumasi, Ghana. I'm passionate
 
 **Tools**
 
-    ![tools](https://github.com/YawEffah/YawEffah/assets/117177189/40652d15-0a58-4db1-a37a-218f853a928f)
+![tools](https://github.com/YawEffah/YawEffah/assets/117177189/8f511dbc-bd44-4e31-b4bc-d3b8163de7d9)
 
 **Contact Me**
 
