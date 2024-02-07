@@ -1,5 +1,6 @@
 
-![cover](https://github.com/YawEffah/YawEffah/assets/117177189/380fd921-f133-4dc3-a5ee-10770defa1e2)
+
+![cover](https://github.com/YawEffah/YawEffah/assets/117177189/8680e5e9-9e08-411c-bac6-ae5a19825de0)
 
 ### Hi there 👋
 **About Me**
