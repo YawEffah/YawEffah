@@ -28,7 +28,7 @@ I'm Collins Effah, a computer science student from Kumasi, Ghana. I'm passionate
 **Contact Me**
 
 - **Phone**: +233(0) 555288029
-- **Email**: effahofficial99@gmail.com
+- **Email**: ceffah012@gmail.com
 - **LinkedIn**: www.linkedin.com/in/ceffah
 
 Feel free to reach out for questions, suggestions, or collaborations!
