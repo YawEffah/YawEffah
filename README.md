@@ -1,7 +1,4 @@
 
-
-![cover](https://github.com/YawEffah/YawEffah/assets/117177189/8680e5e9-9e08-411c-bac6-ae5a19825de0)
-
 # Hi there 👋, I'm Collins Effah  
 
 🚀 **Software Engineer | Cloud & Cybersecurity Enthusiast | Web Developer | UI/UX Designer**  
