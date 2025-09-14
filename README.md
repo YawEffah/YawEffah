@@ -29,7 +29,11 @@ I enjoy building tailored software systems that improve efficiency and innovatio
   - Developed an **Online Admission System (OSA)** with integrated payments, real-time notifications, and secure access.  
 
 - **IT Training Instructor (Intern)** @ *GIFEC* (09/2022 – 11/2022)  
-  - Organized coding workshops for high school students on web app development.  
+  - Organized coding workshops for high school students on web app development.
+    
+- **Computer Lab Assistant** @ *N.T.I and KsTU*  
+  - Supported students in computer usage.  
+  - Gained hands-on experience in **Linux system administration, OS management, and troubleshooting**.   
 
 ---
 
@@ -66,6 +70,7 @@ I enjoy building tailored software systems that improve efficiency and innovatio
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-pink?logo=figma&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)  
 
 ---
 
