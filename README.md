@@ -16,16 +16,16 @@ I enjoy building tailored software systems that improve efficiency and innovatio
 ---
 
 ## 💼 Experience  
-- **Software Engineer (NSP)** @ *KsTU ICT Directorate* (08/2024 – 08/2025)  
+- **Software Engineer (NSP)** @ *KsTU ICT Directorate*
   - Co-developed a **Student Information System (Portal)** with Django & Next.js, improving student access and operations.  
 
-- **Software Engineering Trainee** @ *Amalitech* (06/2024 – 09/2024)  
+- **Software Engineering Trainee** @ *Amalitech* 
   - Built a **File Server System** with Django & REST APIs for efficient file management.  
 
-- **Web Developer (Part-Time)** @ *Mixtech Ltd* (07/2024 – 06/2025)  
+- **Web Developer (Part-Time)** @ *Mixtech Ltd*  
   - Developed an **Online Admission System (OSA)** with integrated payments, real-time notifications, and secure access.  
 
-- **IT Training Instructor (Intern)** @ *GIFEC* (09/2022 – 11/2022)  
+- **IT Training Instructor (Intern)** @ *GIFEC*
   - Organized coding workshops for high school students on web app development.
     
 - **Computer Lab Assistant** @ *N.T.I and KsTU*  
@@ -51,9 +51,9 @@ I enjoy building tailored software systems that improve efficiency and innovatio
 ---
 
 ## 📜 Certifications  
-- ✅ **AWS Certified Cloud Practitioner** – Amazon Web Services (05/2024)  
-- ✅ **Certified in Cybersecurity (CC)** – ISC² (02/2024)  
-- ✅ **Introduction to Cybersecurity** – Cisco Networking Academy (06/2023)  
+- ✅ **AWS Certified Cloud Practitioner** – Amazon Web Services  
+- ✅ **Certified in Cybersecurity (CC)** – ISC²
+- ✅ **Introduction to Cybersecurity** – Cisco Networking Academy 
 
 ---
 
