@@ -35,12 +35,12 @@ I enjoy building tailored software systems that improve efficiency and innovatio
 ---
 
 ## 🛠 Projects  
-- **Student Information System** – Django, Next.js, PostgreSQL  
-- **Document Tracking System** – Django, Tailwind, JavaScript  
-- **Matriculation System** – Django, Next.js  
-- **E-Attendance Management System** – Django, Tailwind, JavaScript  
-- **Transcript Request System** – Django, Bootstrap, PostgreSQL  
-- **Student Mail Service** – Django, PostgreSQL  
+- **Student Information System**
+- **Document Tracking System**
+- **Matriculation System**
+- **E-Attendance Management System** 
+- **Transcript Request System**
+- **Student Mail Service**
 
 🔗 Other Live Projects:  
 - [Mixtech Ltd](https://mixtechltd.com/)
