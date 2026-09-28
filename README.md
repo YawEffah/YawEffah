@@ -62,6 +62,7 @@ I enjoy collaborating across teams, designing systems that launch new technology
 ## 📜 Certifications
 - ✅ **AWS Certified Cloud Practitioner** – Amazon Web Services
 - ✅ **Certified in Cybersecurity (CC)** – ISC²
+- ✅ **Google Certified Cybersecurity Professional** – Google
 
 ---
 
