@@ -48,7 +48,7 @@ I enjoy collaborating across teams, designing systems that launch new technology
 
 🔗 Other Live Projects:
 - [NextWire Systems](https://nextwiresystems.com)
-- [OSA Admissions](https://admissions.mixtechltd.com)
+- [OSA Admissions](https://osaadmissions.mixtechltd.com)
 - [Mixtech Ltd](https://mixtechltd.com/)
 
 ---
