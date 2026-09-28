@@ -47,10 +47,9 @@ I enjoy collaborating across teams, designing systems that launch new technology
 - 🎓 **Student Online Information System (SOIS)**, **Accommodation Management System**, and **Transport Management System** for KsTU.
 
 🔗 Other Live Projects:
-- [Mixtech Ltd](https://mixtechltd.com/)
-- [Mitligh.org](https://www.mitligh.org)
-- [Iddiz Security Systems - Ghana](https://ddizsecuritysystems.com)
+- [NextWire Systems](https://nextwiresystems.com)
 - [OSA Admissions](https://admissions.mixtechltd.com)
+- [Mixtech Ltd](https://mixtechltd.com/)
 
 ---
 
